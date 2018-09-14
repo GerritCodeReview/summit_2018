@@ -5,6 +5,7 @@
 * [Schedule](/schedule.md)
 * [Overview](/overview.md)
 * [Conduct Policy](/conduct-policy.md)
+* [Propose a Talk](/cfp.md)
 * **[Register](https://gus2018.eventbrite.com)**
 
 [home]: /index.md
