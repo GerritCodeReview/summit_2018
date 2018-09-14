@@ -10,7 +10,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 |-------|----------------------------------------------------------------------------------------------|
 |  8:30 | Registration Opens, Breakfast, Networking                                                    |
 |  9:00 | Welcome introduction                                                                         |
-|  9:15 | Session #1                                                                                   |
+|  9:15 | [Upgrading to Gerrit 2.15: real-life story on GerritHub](sessions/gerrithub-2.15-upgrade.md) |
 | 10:00 | Session #2                                                                                   |
 | 10:45 | Break & Networking                                                                           |
 | 11:30 | Session #3                                                                                   |
