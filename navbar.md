@@ -3,6 +3,7 @@
 * [Home](/index.md)
 * [Location](/location.md)
 * [Schedule](/schedule.md)
+* [Speakers](/speakers.md)
 * [Overview](/overview.md)
 * [Conduct Policy](/conduct-policy.md)
 * [Propose a Talk](/cfp.md)
