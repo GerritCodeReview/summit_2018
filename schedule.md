@@ -15,7 +15,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 10:45 | Break & Networking                                                                           |
 | 11:30 | Session #3                                                                                   |
 | 12:15 | Lunch & Networking                                                                           |
-| 14:00 | Session #4                                                                                   |
+| 14:00 | [Gerrit Multi-master & multi-site: an OpenSource solution](sessions/multi-master-multi-site.md)|
 | 14:20 | Session #5                                                                                   |
 | 14:45 | Session #6                                                                                   |
 | 15:30 | Break & Networking                                                                           |
