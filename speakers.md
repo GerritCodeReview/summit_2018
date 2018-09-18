@@ -7,6 +7,14 @@
 Dave Borowitz is Staff Software Engineer at Google and principal
 project maintainer.
 
+### David Pursehouse - CollabNet {#dpursehouse}
+
+[LinkedIn](https://www.linkedin.com/in/davidpursehouse/)
+
+David is a contributor to Gerrit since 2011 and a maintainer/committer
+since 2012. He is based in Japan and works remotely as part of
+CollabNet's Teamforge Git Engineering team in Berlin.
+
 ### Luca Milanesio - GerritForge {#lmilanesio}
 
 [LinkedIn](https://www.linkedin.com/in/lucamilanesio/)
