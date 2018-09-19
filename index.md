@@ -1,16 +1,23 @@
-# Gerrit User Summit is *THE event of the year* for the Community.
+# Gerrit User Summit 2018
 
-We will bring together Gerrit thought leaders, developers, practitioners,
+## Gerrit User Summit is *THE event of the year* for the Community.
+
+We bring together Gerrit thought leaders, developers, practitioners,
 the whole community and ecosystem, in one event, providing attendees
 with the opportunity to learn, explore, network face-to-face and help
 shape the future of Gerrit development and solutions.
 
-# Gerrit User Summit 2018 at Cloudera HQ
+## Where
 
-Cloudera hosts the summit at its company headquarters in Palo Alto CA,
-in cooperation with GerritForge and the Gerrit Community.
+Cloudera hosts the summit at its [company headquarters in Palo Alto CA](https://goo.gl/maps/8d97rRsiKEq),
+in cooperation with [GerritForge](http://www.gerritforge.com) and the [Gerrit Community](https://groups.google.com/forum/#!topic/repo-discuss/uVQbBOC9IeU).
 
-# Why a Gerrit User Summit back in the Silicon Valley?
+## When
+
+The event is composed by a Hackathon (12-14th Nov), dedicated to Gerrit Maintainers and Contributors,
+and a User Summit (15-16th Nov) opened to everyone, prior registration on [EventBrite](https://gus2018.eventbrite.com).
+
+## Why a Gerrit User Summit back in the Silicon Valley?
 
 Starting from 2017, we promised to get in touch with a *wider and more diverse community*,
 not excluding however the existing large user base in USA and more specifically
