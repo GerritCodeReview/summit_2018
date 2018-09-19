@@ -1,5 +1,3 @@
-# Gerrit User Summit 2018 - 15-16 Nov, Cloudera HQ - California
-
 * [Home](/index.md)
 * [Location](/location.md)
 * [Schedule](/schedule.md)
@@ -10,3 +8,4 @@
 * **[Register](https://gus2018.eventbrite.com)**
 
 [home]: /index.md
+[logo]: images/gerritusersummit2018.png
