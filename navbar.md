@@ -10,3 +10,4 @@
 * **[Register](https://gus2018.eventbrite.com)**
 
 [home]: /index.md
+[logo]: images/gerritusersummit2018.png
