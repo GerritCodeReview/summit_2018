@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "71b64613_0385eeb5",
+        "filename": "index.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2018-09-19T23:49:31Z",
+      "side": 1,
+      "message": "composed of",
+      "range": {
+        "startLine": 17,
+        "startChar": 13,
+        "endLine": 17,
+        "endChar": 24
+      },
+      "revId": "ab35f8103c0ae035ca1e4ff4762c1f1a829e5c48",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8bd779de_1dcb7cfd",
+        "filename": "index.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2018-09-19T23:49:31Z",
+      "side": 1,
+      "message": "\"limited to\"?\n\nor mention that it\u0027s by invitation only?",
+      "range": {
+        "startLine": 17,
+        "startChar": 52,
+        "endLine": 17,
+        "endChar": 64
+      },
+      "revId": "ab35f8103c0ae035ca1e4ff4762c1f1a829e5c48",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
