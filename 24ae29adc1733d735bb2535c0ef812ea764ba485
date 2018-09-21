@@ -22,6 +22,30 @@
       "revId": "24ae29adc1733d735bb2535c0ef812ea764ba485",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5e705c00_7280e81a",
+        "filename": "schedule.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2018-09-21T10:58:08Z",
+      "side": 1,
+      "message": "This is correct.  I will repeat the same talk from the London summit, but with updates for the stuff that was included in the maintenance releases.\n\nI currently don\u0027t plan to do \"what\u0027s new (or what\u0027s coming) in 2.16\", but I guess someone should.  Dave?\n\nhttps://gerrit.googlesource.com/summit/2018/+/master/sessions/new-in-2.14.md",
+      "parentUuid": "de4452c4_f9f5d9f7",
+      "range": {
+        "startLine": 14,
+        "startChar": 11,
+        "endLine": 14,
+        "endChar": 29
+      },
+      "revId": "24ae29adc1733d735bb2535c0ef812ea764ba485",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
