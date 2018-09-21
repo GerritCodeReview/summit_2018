@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "938e0f85_bdfab980",
+        "filename": "sessions/gerrit-on-kubernetes.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2018-09-21T23:07:52Z",
+      "side": 1,
+      "message": "nit: trailing whitespace throughout",
+      "revId": "e4130ef40eba34375fea7b13d821e1c37ab4430a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3d7d010c_146ded23",
+        "filename": "sessions/gerrit-on-kubernetes.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2018-09-21T23:07:52Z",
+      "side": 1,
+      "message": "Please also update speakers.md with a short bio.",
+      "range": {
+        "startLine": 16,
+        "startChar": 53,
+        "endLine": 16,
+        "endChar": 74
+      },
+      "revId": "e4130ef40eba34375fea7b13d821e1c37ab4430a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
