@@ -8,4 +8,4 @@ any more. This presentation will be based on the
 and updated to cover the features that have been added in the maintenance
 releases since then.
 
-*(TBC) [David Pursehouse, CollabNet](../speakers.md#dpursehouse)*
+*[David Pursehouse, CollabNet](../speakers.md#dpursehouse)*
