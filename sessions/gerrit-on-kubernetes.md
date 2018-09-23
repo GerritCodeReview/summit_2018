@@ -13,4 +13,4 @@ better understand our developers.
 
 
 
-*[Luke Ashe-Browne, Devops Consultant / LAB Digital](../speakers.md#anchor)*
+*[Luke Ashe-Browne, Devops Consultant / GerritForge](../speakers.md#lashebrowne)*

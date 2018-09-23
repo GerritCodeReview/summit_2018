@@ -24,3 +24,12 @@ and application lifecycle management experience.
 He is a Gerrit Contributor for over five years and is the maintainer
 of [GerritHub.io](https://gerrithub.io), the Open Service for Gerrit Code Review
 on top of GitHub repositories.
+
+### Luke Ashe-Browne - GerritForge {#lashebrowne}
+
+[LinkedIn](https://www.linkedin.com/in/lukeab/)
+
+Luke is a contract engineer working on CICD workflows, deployment automation
+practicing devops for companies in London.
+Luke has recently joined the Gerrit project focusing on containerisation,
+kubernetes and the cloud readiness of Gerrit.
