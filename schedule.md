@@ -26,9 +26,9 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 
 | Time  | Session                                                                                      |
 |-------|----------------------------------------------------------------------------------------------|
-|  9:00 | [DevOps Analytics - Uncover the value of Gerrit Pipeline](sessions/devops-analytics.md)      |
-|  9:15 | Session #8                                                                                   |
-| 10:00 | Session #9                                                                                   |
+|  9:00 | Breakfast, Networking                                                                        |
+|  9:15 | [DevOps Analytics - Uncover the value of Gerrit Pipeline](sessions/devops-analytics.md)      |
+| 10:00 | [Gerrit on Kubernetes](sessions/gerrit-on-kubernetes.md)                                     |
 | 10:45 | Break & Networking                                                                           |
 | 11:30 | Session #10                                                                                  |
 | 12:15 | Lunch & Networking                                                                           |
