@@ -7,6 +7,12 @@
 Dave Borowitz is Staff Software Engineer at Google and principal
 project maintainer.
 
+### David Ostrovsky - Unaffiliated {#davido}
+
+David is a contributor to Gerrit since 2013 and a maintainer/committer
+since 2016. David has been open source and free software enthusiast
+for many years and has contribited to number open source projects.
+
 ### David Pursehouse - CollabNet {#dpursehouse}
 
 [LinkedIn](https://www.linkedin.com/in/davidpursehouse/)
