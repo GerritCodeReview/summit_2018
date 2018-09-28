@@ -13,7 +13,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 |  9:15 | [Upgrading to Gerrit 2.15: real-life story on GerritHub](sessions/gerrithub-2.15-upgrade.md) |
 | 10:00 | [What's new in 2.14](sessions/new-in-2.14.md)                                                |
 | 10:45 | Break & Networking                                                                           |
-| 11:30 | Session #3                                                                                   |
+| 11:30 | [Different change workflows in Gerrit](sessions/different-change-workflows-in-gerrit.md)     |
 | 12:15 | Lunch & Networking                                                                           |
 | 14:00 | [Gerrit Multi-master & multi-site: an OpenSource solution](sessions/multi-master-multi-site.md)|
 | 14:20 | Session #5                                                                                   |
