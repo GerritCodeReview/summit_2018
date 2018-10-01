@@ -39,3 +39,11 @@ Luke is a contract engineer working on CICD workflows, deployment automation
 practicing devops for companies in London.
 Luke has recently joined the Gerrit project focusing on containerisation,
 kubernetes and the cloud readiness of Gerrit.
+
+### Shane McIntosh - McGill University {#mcintosh}
+
+[LinkedIn](https://www.linkedin.com/in/shane-mcintosh)
+
+Shane is an assistant professor and leader of the Software REBELs—a research
+group that develops tool and decision support for modern development and release
+teams.
