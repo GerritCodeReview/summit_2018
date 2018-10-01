@@ -30,7 +30,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 |  9:15 | [DevOps Analytics - Uncover the value of Gerrit Pipeline](sessions/devops-analytics.md)      |
 | 10:00 | [Gerrit on Kubernetes](sessions/gerrit-on-kubernetes.md)                                     |
 | 10:45 | Break & Networking                                                                           |
-| 11:30 | Session #10                                                                                  |
+| 11:30 | [BLIMP Tracer: Integrating Build Impact Analysis with Code Review](sessions/blimp-tracer.md) |
 | 12:15 | Lunch & Networking                                                                           |
 | 14:00 | Session #11                                                                                  |
 | 14:45 | Session #12                                                                                  |
