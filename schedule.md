@@ -17,7 +17,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 12:15 | Lunch & Networking                                                                           |
 | 14:00 | [Gerrit Multi-master & multi-site: an OpenSource solution](sessions/multi-master-multi-site.md)|
 | 14:20 | Session #5                                                                                   |
-| 14:45 | Session #6                                                                                   |
+| 14:45 | [Gerrit 2.16, 3.0 and beyond] - *PLACEHOLDER*                                                |
 | 15:30 | Break & Networking                                                                           |
 | 16:00 | [Q&A with the Gerrit Maintainers](sessions/maintainers-qa.md)                                |
 | 17:00 | End of Day 1                                                                                 |
