@@ -21,6 +21,13 @@ David is a contributor to Gerrit since 2011 and a maintainer/committer
 since 2012. He is based in Japan and works remotely as part of
 CollabNet's Teamforge Git Engineering team in Berlin.
 
+### Han-Wen Nienhuys - Google {#hanwen}
+
+[LinkedIn](https://www.linkedin.com/in/han-wen-nienhuys-794753)
+
+Han-Wen Nienhuys is Staff Software Engineer at Google and manages Google's
+Gerrit backend team in Munich.
+
 ### Luca Milanesio - GerritForge {#lmilanesio}
 
 [LinkedIn](https://www.linkedin.com/in/lucamilanesio/)
