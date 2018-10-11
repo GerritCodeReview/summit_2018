@@ -10,8 +10,8 @@ project maintainer.
 ### David Ostrovsky - Unaffiliated {#davido}
 
 David is a contributor to Gerrit since 2013 and a maintainer/committer
-since 2016. David has been open source and free software enthusiast
-for many years and has contribited to number open source projects.
+since 2016. David has been an open source and free software enthusiast
+for many years and has contribited to a number of open source projects.
 
 ### David Pursehouse - CollabNet {#dpursehouse}
 
@@ -19,7 +19,7 @@ for many years and has contribited to number open source projects.
 
 David is a contributor to Gerrit since 2011 and a maintainer/committer
 since 2012. He is based in Japan and works remotely as part of
-CollabNet's Teamforge Git Engineering team in Berlin.
+CollabNet's Git Engineering team in Berlin.
 
 ### Luca Milanesio - GerritForge {#lmilanesio}
 
@@ -44,6 +44,6 @@ kubernetes and the cloud readiness of Gerrit.
 
 [LinkedIn](https://www.linkedin.com/in/shane-mcintosh)
 
-Shane is an assistant professor and leader of the Software REBELs—a research
+Shane is an assistant professor and leader of the Software REBELs — a research
 group that develops tool and decision support for modern development and release
 teams.
