@@ -32,7 +32,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 10:45 | Break & Networking                                                                           |
 | 11:30 | [BLIMP Tracer: Integrating Build Impact Analysis with Code Review](sessions/blimp-tracer.md) |
 | 12:15 | Lunch & Networking                                                                           |
-| 14:00 | Session #11                                                                                  |
+| 14:00 | [Gerrit at Google PLACEHOLDER] - hanwen
 | 14:45 | Session #12                                                                                  |
 | 15:30 | Break & Networking                                                                           |
 | 16:00 | Session #13                                                                                  |
