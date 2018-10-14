@@ -16,7 +16,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 11:30 | [Different change workflows in Gerrit](sessions/different-change-workflows-in-gerrit.md)     |
 | 12:15 | Lunch & Networking                                                                           |
 | 14:00 | [Gerrit Multi-master & multi-site: an OpenSource solution](sessions/multi-master-multi-site.md)|
-| 14:20 | Session #5                                                                                   |
+| 14:20 | [Developing and building plugins with Bazel] - *PLACEHOLDER*                                 |
 | 14:45 | [Gerrit 2.16, 3.0 and beyond] - *PLACEHOLDER*                                                |
 | 15:30 | Break & Networking                                                                           |
 | 16:00 | [Q&A with the Gerrit Maintainers](sessions/maintainers-qa.md)                                |
