@@ -35,6 +35,6 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 14:00 | [Gerrit at Google PLACEHOLDER] - hanwen                                                      |
 | 14:45 | [Automated Security Analysis with Gerrit Robot Comments] - *PLACEHOLDER*                     |
 | 15:30 | Break & Networking                                                                           |
-| 16:00 | Session #13                                                                                  |
+| 16:00 | [Lessons learned from Gerrit 2.7 to 2.14 migration](sessions/migration-2.7-to-2.14md)        |
 | 16:45 | Closing note                                                                                 |
 | 17:00 | End of the Summit                                                                            |

@@ -28,6 +28,20 @@ CollabNet's Git Engineering team in Berlin.
 Han-Wen Nienhuys is Staff Software Engineer at Google and manages Google's
 Gerrit backend team in Munich.
 
+### Krzysztof Miesniak - Intel Corporation {#kmiesniak}
+
+[LinkedIn](https://www.linkedin.com/in/krzysztof-miesniak-9036132/)
+
+Krzysztof Miesniak is a Workflow Architect and Software Engineering
+Manager at Intel Corporation.
+
+He leads Software Workflow Architecture and Development team responsible
+for designing, implementing and rolling out software workflow and methodology
+solutions for a large development organization.
+In the past he has worked in various companies leading projects related to
+Software Integration and Continuous Delivery.
+He holds a Master's degree from Wroclaw University of Science and Technology.
+
 ### Luca Milanesio - GerritForge {#lmilanesio}
 
 [LinkedIn](https://www.linkedin.com/in/lucamilanesio/)
