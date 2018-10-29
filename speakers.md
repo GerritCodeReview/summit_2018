@@ -21,6 +21,12 @@ David is a contributor to Gerrit since 2011 and a maintainer/committer
 since 2012. He is based in Japan and works remotely as part of
 CollabNet's Git Engineering team in Berlin.
 
+### Eryk Szymanski - CollabNet {#eszymanski}
+[LinkedIn](https://www.linkedin.com/in/eryk-szymanski-94b92ba)
+
+Eryk is CollabNet’s Engineering Manager responsible for Git and Gerrit
+related development efforts.
+
 ### Han-Wen Nienhuys - Google {#hanwen}
 
 [LinkedIn](https://www.linkedin.com/in/han-wen-nienhuys-794753)
