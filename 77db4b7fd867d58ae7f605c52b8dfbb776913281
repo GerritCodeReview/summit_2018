@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "532cd7d1_208e5e01",
+        "filename": "sessions/simple-submit.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2018-10-31T20:24:12Z",
+      "side": 1,
+      "message": "Arcane? I would say \"difficult to write and at times to understand\"",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 6
+      },
+      "revId": "77db4b7fd867d58ae7f605c52b8dfbb776913281",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "90ccb700_8a39de60",
+        "filename": "sessions/simple-submit.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2018-10-31T20:24:12Z",
+      "side": 1,
+      "message": "Looking forward to it :-)",
+      "range": {
+        "startLine": 6,
+        "startChar": 66,
+        "endLine": 7,
+        "endChar": 42
+      },
+      "revId": "77db4b7fd867d58ae7f605c52b8dfbb776913281",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
