@@ -32,7 +32,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 10:45 | Break & Networking                                                                           |
 | 11:30 | [BLIMP Tracer: Integrating Build Impact Analysis with Code Review](sessions/blimp-tracer.md) |
 | 12:15 | Lunch & Networking                                                                           |
-| 14:00 | [Gerrit at Google PLACEHOLDER] - hanwen                                                      |
+| 14:00 | [Submit rules without prolog](sessions/simple-submit.md)                                                      |
 | 14:45 | [Automated Security Analysis with Gerrit Robot Comments] - *PLACEHOLDER*                     |
 | 15:30 | Break & Networking                                                                           |
 | 16:00 | [Lessons learned from Gerrit 2.7 to 2.14 migration](sessions/migration-2.7-to-2.14.md)       |
