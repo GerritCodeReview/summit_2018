@@ -74,3 +74,12 @@ kubernetes and the cloud readiness of Gerrit.
 Shane is an assistant professor and leader of the Software REBELs — a research
 group that develops tool and decision support for modern development and release
 teams.
+
+### Bruno Bossola - Meterian {#bbossola}
+
+[LinkedIn](https://www.linkedin.com/in/bbossola)
+
+Bruno starts coding in machine language on a small Commodore computer, and he's
+been coding professionally for thirty years with various languages. Bruno is the
+co-founder of [Meterian](https://www.meterian.io), a cyber-sec company
+that focuses on the security of software components.
