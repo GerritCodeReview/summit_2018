@@ -67,6 +67,14 @@ practicing devops for companies in London.
 Luke has recently joined the Gerrit project focusing on containerisation,
 kubernetes and the cloud readiness of Gerrit.
 
+### Matthias Sohn - SAP {#msohn}
+
+[LinkedIn](https://www.linkedin.com/in/matthiassohn/)
+
+Matthias is an Open Source enthusiast and Product Owner at SAP.
+He maintains the Eclipse EGit and JGit projects and contributes to git, JGit,
+EGit, Gerrit, Gardener and Kubernetes.
+
 ### Shane McIntosh - McGill University {#mcintosh}
 
 [LinkedIn](https://www.linkedin.com/in/shane-mcintosh)
