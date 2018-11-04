@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "207649d2_9ac89102",
+        "filename": "speakers.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2018-11-04T23:35:37Z",
+      "side": 1,
+      "message": "Open Source",
+      "range": {
+        "startLine": 72,
+        "startChar": 15,
+        "endLine": 72,
+        "endChar": 25
+      },
+      "revId": "7fede2bae033bb89edcf26c5a6c2350e3ca3be96",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "3d99de7f_989856da",
         "filename": "speakers.md",
         "patchSetId": 1
@@ -19,6 +42,23 @@
         "endLine": 73,
         "endChar": 42
       },
+      "revId": "7fede2bae033bb89edcf26c5a6c2350e3ca3be96",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "89a00596_bc3cc54e",
+        "filename": "speakers.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2018-11-04T23:35:37Z",
+      "side": 1,
+      "message": "For all the other speakers, the LinkedIn link is at the top.",
       "revId": "7fede2bae033bb89edcf26c5a6c2350e3ca3be96",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
