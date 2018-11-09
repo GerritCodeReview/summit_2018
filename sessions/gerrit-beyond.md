@@ -1,4 +1,4 @@
-# Gerrit 2.16, 3.0 and beyond
+# Gerrit 2.16, 3.0, and beyond
 
 Gerrit 3.0 is coming! If you've tried 2.16, you may have already seen our new
 database backend (NoteDb) and UI (PolyGerrit). With 2.16, these features are
