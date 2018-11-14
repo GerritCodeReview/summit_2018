@@ -12,6 +12,9 @@ Cloudera Galatic HQ
 Palo Alto, CA 94306
 ```
 
+If you are coming by car, there is free parking available for the attendees of the Summit,
+as indicated in the Cloudera map below.
+
 ## Check-in Instructions
 
 Enter through the main lobby entrance and check-in registration table will be located at the
