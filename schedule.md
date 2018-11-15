@@ -9,7 +9,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | Time  | Session                                                                                      |
 |-------|----------------------------------------------------------------------------------------------|
 |  8:30 | Registration Opens, Breakfast, Networking                                                    |
-|  9:00 | Welcome introduction                                                                         |
+|  9:00 | [Welcome introduction](https://www.slideshare.net/lucamilanesio/gerrit-user-summit-2018-keynote)|
 |  9:15 | [Upgrading to Gerrit 2.15: real-life story on GerritHub](sessions/gerrithub-2.15-upgrade.md) |
 | 10:00 | [What's new in Gerrit 2.14.x and 2.15](sessions/new-in-2.14.md)                              |
 | 10:20 | [Bazel new and noteworthy](sessions/bazel-new-and-noteworthy.md)
