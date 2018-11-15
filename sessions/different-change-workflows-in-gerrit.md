@@ -1,5 +1,7 @@
 # Different change workflows in Gerrit
 
+[Slides](https://ostrovsky.org/gerrit/gerrit-change-workflow/gerrit-change-workflows.html)
+
 In Release 2.3 (2012) draft changes and draft patch set workflow
 was added to Gerrit. This implementation extended change status with
 DRAFT value. DRAFT status in change occurs before NEW and will be for
