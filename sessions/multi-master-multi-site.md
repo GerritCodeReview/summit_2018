@@ -18,4 +18,6 @@ can benefit from GerritForge experience:
 - What's left
 - How does your multi-site plan look like?
 
+Replay [slides](https://www.slideshare.net/lucamilanesio/gerrit-multimaster-multisite-at-gerrithub)
+
 *[Luca Milanesio, Gerrit Maintainer / GerritForge Ltd](../speakers.md#lmilanesio)*
