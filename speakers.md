@@ -1,4 +1,4 @@
-# Gerrit User Summit 2017 - Speakers
+# Gerrit User Summit 2018 - Speakers
 
 ### Dave Borowitz - Google {#dborowitz}
 
