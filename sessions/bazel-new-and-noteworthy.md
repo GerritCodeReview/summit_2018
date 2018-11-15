@@ -1,5 +1,7 @@
 # Bazel new and noteworthy
 
+[Slides](http://ostrovsky.org/gerrit/bazel-new-and-noteworthy/bazel-new-and-noteworthy.html)
+
 Overview of the recent enhancements in Gerrit build tool chain:
 
 * Gerrit project from build perspective
