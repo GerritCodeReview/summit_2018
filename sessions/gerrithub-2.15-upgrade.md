@@ -16,4 +16,6 @@ See how the process worked and discuss with Luca Milanesio the challenges and tr
 - Post-upgrade metrics
 - Retrospective after 6 months on Gerrit 2.15/NoteDb
 
+Replay [slides](https://www.slideshare.net/lucamilanesio/gerrithub-a-true-gerrit-migration-story-to-v215)
+
 *[Luca Milanesio, Gerrit Maintainer - GerritForge Ltd](../speakers.md#lmilanesio)*
