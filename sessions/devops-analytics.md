@@ -16,4 +16,6 @@ provides and is often left behind.
 See a real use-case based on a real-life scenario that can be taken home
 and applied to your CI/CD Pipeline.
 
+Replay [slides](https://www.slideshare.net/lucamilanesio/gerrit-devops-analytics-uncover-the-value-of-cicd-pipeline)
+
 *[Luca Milanesio, Gerrit Maintainer - GerritForge](../speakers.md#lmilanesio)*
