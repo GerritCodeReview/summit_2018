@@ -1,5 +1,7 @@
 # What's new in Gerrit 2.14.x and 2.15
 
+[Slides](https://storage.cloud.google.com/gerrit-talks/summit/2018/whats-new-in-2.14-and-2.15-gus-2018.pdf)
+
 Overview of the new features included in Gerrit version 2.14.
 
 Version 2.14 was released more than a year ago, so it's not "new"
