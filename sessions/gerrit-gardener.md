@@ -9,4 +9,6 @@ current work in progress and discuss plans.
 We are looking for allies on this journey and think that Kubernetes has the
 potential to become the standard deployment underlay for deploying Gerrit.
 
+[Slide deck](https://speakerdeck.com/msohn/code-review-goes-cloud-native-gerrit-on-kubernetes-managed-by-gardener)
+
 *[Matthias Sohn, SAP](../speakers.md#msohn)*
