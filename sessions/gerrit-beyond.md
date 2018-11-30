@@ -7,4 +7,6 @@ lines from Gerrit's codebase. Join me for a tour of new features you can use
 today, and a discussion about even more things to look forward to once we've
 freed ourselves from the burden of some of our legacy code.
 
+[Slides](https://storage.googleapis.com/gerrit-talks/summit/2018/Gerrit-2.16-3.0-and-Beyond.pdf)
+
 *[Dave Borowitz, Gerrit Maintainer - Google](../speakers.md#dborowitz)*
